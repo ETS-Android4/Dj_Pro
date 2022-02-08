@@ -1,2 +1,2 @@
 # Dj_Pro
-android application that mathching between dj'user and club
+android application that mathching between djs,users and clubs

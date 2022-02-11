@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">DJ APP</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="account">
+        <item>Dj</item>
+        <item>Customer</item>
+    </string-array>
+</resources>
